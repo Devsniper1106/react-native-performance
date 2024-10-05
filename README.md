@@ -64,4 +64,4 @@ yarn test
 
 ## License
 
-MIT © Joel Arvidsson 2019 – present
+ © Andy Blake 2019 – present
